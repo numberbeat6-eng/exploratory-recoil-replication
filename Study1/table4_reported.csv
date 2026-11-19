@@ -1,0 +1,4 @@
+outcome,q1,q4,q4_minus_q1,ci_low,ci_high,users_q1,users_q4
+unfamiliar_effective_play,-0.003060,-0.005299,-0.002239,-0.002571,-0.001922,239,239
+unfamiliar_long_view,-0.003154,-0.004305,-0.001150,-0.001541,-0.000759,239,239
+unfamiliar_watch_ratio,-0.002448,-0.001997,0.000451,0.000058,0.000841,239,239
