@@ -8,8 +8,8 @@ Download and extract the original archives from the data providers. Pass the dir
 
 | Study | Download | Data files |
 |---|---|---|
-| Study 1 | [KuaiRand-1K](https://zenodo.org/records/10439422), `KuaiRand-1K.tar.gz` | `log_standard_4_08_to_4_21_1k.csv`, `log_standard_4_22_to_5_08_1k.csv`, `log_random_4_22_to_5_08_1k.csv`, `video_features_basic_1k.csv` |
-| Study 2 | [KuaiRec 2.0](https://zenodo.org/records/18164998), `KuaiRec.zip` | `small_matrix.csv`, `item_categories.csv` |
+| Study 1 | [KuaiRand](https://zenodo.org/records/10439422), `KuaiRand-1K.tar.gz` | `log_standard_4_08_to_4_21_1k.csv`, `log_standard_4_22_to_5_08_1k.csv`, `log_random_4_22_to_5_08_1k.csv`, `video_features_basic_1k.csv` |
+| Study 2 | [KuaiRec](https://zenodo.org/records/18164998), `KuaiRec.zip` | `small_matrix.csv`, `item_categories.csv` |
 
 The dataset papers describe how [KuaiRand](https://doi.org/10.1145/3511808.3557624) and [KuaiRec](https://doi.org/10.1145/3511808.3557220) were collected.
 
