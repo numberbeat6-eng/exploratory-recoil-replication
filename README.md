@@ -1,6 +1,6 @@
-# Replication materials for You Recommend, I Retreat
+# Replication materials for Exploratory Recoil
 
-These materials accompany *You Recommend, I Retreat: Defensive Retrenchment and Content Selection in Exploratory Recommendation*.
+These materials accompany *Exploratory Recoil: Defensive Retrenchment and Content Selection in Algorithmic Feeds*.
 
 ## Data
 
